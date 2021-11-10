@@ -2,4 +2,4 @@
 
 Run 
   ./riddle 
-  and get past all the Challeges!
+  and get past all the Challenges!
